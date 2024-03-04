@@ -1,0 +1,42 @@
+
+com:
+ mobile:
+  names:
+    - oppo
+    - samusng
+    - vivo
+  prices:
+    - 34000
+    - 32000
+    - 23000
+    - 12000
+  colors:
+    - green
+    - yellow
+    - orange
+  ids:
+   voterid: 434335
+   adharid: 353768203807
+   pancard: mkmpk5768k
+  mob:
+   name: oppo
+   cost: 12000
+#com.mobile.name=oppo
+#com.mobile.version=y53
+#com.mobile.cost=12000
+#com.mobile.ram=3gb
+#com.mobile.internalMemory=16gb
+#price.oppo=15000
+#price.samsung=23000
+#price.oneplus=25000
+#price.realme=20000
+#
+#mobile.names=oppo,realme,samsung,onePlus
+#mobile.prices=23000,24000,22000,30000
+#mobile.colors=yellow,orange,red,green
+#
+#mobile.ids.phoneNumber=7799352324
+#mobile.ids.pancard=mkmpk57684
+#mobile.ids.voterid=34363
+#mobile.ids.mob.name=oppo
+#mobile.ids.mob.cost=y53
