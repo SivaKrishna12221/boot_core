@@ -17,7 +17,7 @@ public class RealTimeDIRunner implements CommandLineRunner
   private HostelController control;
   public void run(String...args)throws Exception
   {
-     List<Hostel> list=control.showAllHostelRooms("srnagar","panjagutta","madhapur");
+     List<Hostel> list=control.showAllHostelRooms("srnagar","panjagutta","madhapur","kbhp");
      list.forEach(System.out::println);
   }
   

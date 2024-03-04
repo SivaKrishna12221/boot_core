@@ -17,7 +17,7 @@ public class ARealTimeDIRunner implements CommandLineRunner
     private HostelController controll;
    	@Override
 	public void run(String... args) throws Exception {
-	  List<Hostel> list=controll.showAllHostelRooms("kphb","dilsuknagar","jntu");
+	  List<Hostel> list=controll.showAllHostelRooms("kphb","dilsuknagar","jntu","ameerpet");
 	  list.forEach(System.out::println);
 		
 	}
