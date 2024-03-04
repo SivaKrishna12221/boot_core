@@ -1,0 +1,32 @@
+#customer info
+shopping:
+ clothes:
+  custId: 1201
+  custName: siva
+  custAddress: jangampalli
+  billAmount: 2342.3243
+#matrimony personDetails
+matrimony:
+ info:
+  personName: lakshman
+  age: 25
+  address: warangal
+  dob: 1995-06-20 
+  education: btech
+  company: sriRamIndustry
+  sal: 20000
+  land: 4 acres
+  parents:
+   - lakshmanFather
+   - lakshmanMohther
+   - brother
+  favouriteItems:
+   - watchingMovies
+   - going trips
+   - spend with family
+  idDetails:
+   adhar: 3537068203807
+   pancard: mkmpk5768
+   voterId: 82328820
+  
+        

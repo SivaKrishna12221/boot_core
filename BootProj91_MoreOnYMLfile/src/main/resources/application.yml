@@ -1,0 +1,37 @@
+#dmart info
+dmart:
+ info:
+  id: 232352
+  shopname: vijetha
+  owner: Lakshman
+  phNumber: 7799352324
+  
+  #types of products
+  typesOfProducts:
+   - clothes
+   - foodItems
+   - kitchenItems
+   - fashionItems
+   - studyItems
+  #typesOfClothes
+  typesOfClothes:
+   - Jeans
+   - cotton
+   - Tshirts
+   - ladiesDress
+   - kids
+  #set of contact details
+  contact:
+   - 779990000
+   - 343434345
+   - 343563345
+  #map collection
+  prices: 
+   jeans: 700
+   shirt: 500
+   perfume: 350
+   snacks: 300    
+     
+            
+
+  
