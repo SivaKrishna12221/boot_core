@@ -1,14 +1,7 @@
 package com.nt;
 
-import java.util.List;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.ConfigurableApplicationContext;
-
-import com.nt.controller.HostelController;
-import com.nt.model.Hostel;
 
 @SpringBootApplication
 public class BootProj5LayeredAppHostelRoomsApplication {
